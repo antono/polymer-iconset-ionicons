@@ -1,0 +1,17 @@
+{
+  "name": "polymer-iconset-ionicons",
+  "version": "0.0.0",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "iconset",
+    "ionicons",
+    "svg"
+  ],
+  "main": "polymer-iconset-ionicons.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4",
+    "core-icon": "Polymer/core-icon#^0.5.4",
+    "core-iconset-svg": "Polymer/core-iconset-svg#^0.5.4"
+  }
+}

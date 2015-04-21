@@ -1,0 +1,27 @@
+{
+  "name": "polymer-iconset-ionicons",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "iconset",
+    "ionicons",
+    "svg"
+  ],
+  "main": "polymer-iconset-ionicons.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4",
+    "core-icon": "Polymer/core-icon#^0.5.4",
+    "core-iconset-svg": "Polymer/core-iconset-svg#^0.5.4"
+  },
+  "homepage": "https://github.com/antono/polymer-iconset-ionicons",
+  "_release": "89de4ca312",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "89de4ca312f2c423a22e9b3b9ab0236bd0adb03f"
+  },
+  "_source": "git://github.com/antono/polymer-iconset-ionicons.git",
+  "_target": "master",
+  "_originalSource": "antono/polymer-iconset-ionicons",
+  "_direct": true
+}
