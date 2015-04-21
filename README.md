@@ -1,7 +1,16 @@
 # polymer-iconset-ionicons
 
-See the [component page](http://antono.github.io/polymer-iconset-ionicons) for more information.
+SVG ionicons iconset for usage with core-icon.
+
+Read this for more details: https://www.polymer-project.org/0.5/docs/elements/icons.html
 
 ## Getting Started
 
-We've put together a [guide for polymer-iconset-ionicons](http://www.polymer-project.org/docs/start/reusableelements.html) to help get you rolling.
+```sh
+bower install polymer-iconset-ionicons
+```
+
+```html
+<link rel="import" href="bower_components/polymer-iconset-ionicons/polymer-iconset-ionicons.html">
+<core-icon icon="ion:ion-heart"></core-icon>
+```
